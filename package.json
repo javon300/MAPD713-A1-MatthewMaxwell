@@ -1,0 +1,12 @@
+{
+    "name": "MAPD713_ assignment1",
+    "version": "1.0.0",
+    "description": "REST API - store Images details, assignment 1",
+    "dependencies": {
+        "restify": "4.1.1",
+        "save": "2.3.0"
+    },
+    "author": "Matthew Maxwell",
+    "private": true,
+    "main": "index.js"
+}
